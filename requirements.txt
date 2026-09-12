@@ -1,6 +1,9 @@
 streamlit
 pandas
+numpy
 folium
 streamlit-folium
-numpy
+opencv-python-headless
 plotly
+scikit-learn
+Pillow
