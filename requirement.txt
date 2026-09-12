@@ -1,0 +1,8 @@
+streamlit==1.39.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+folium==0.17.0
+streamlit-folium==0.20.0
+torch==2.4.1
+gTTS==2.5.1
+xarray==2024.9.0
