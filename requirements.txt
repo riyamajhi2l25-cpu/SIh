@@ -3,7 +3,4 @@ pandas
 numpy
 folium
 streamlit-folium
-opencv-python-headless
 plotly
-scikit-learn
-Pillow
