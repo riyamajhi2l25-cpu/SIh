@@ -4,4 +4,3 @@ numpy
 folium
 streamlit-folium
 plotly
-Pillow
